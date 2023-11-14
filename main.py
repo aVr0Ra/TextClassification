@@ -64,6 +64,8 @@ for line in neg_lines:
 # print(neg)
 
 '''
+# 测试词频
+
 def build_dict(corpus):
     word_freq_dict = dict()
     for word in corpus:
